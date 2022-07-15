@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">Lista de Tarefas</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center" valign="top"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
 
-## Available Scripts
+## Índice
 
-In the project directory, you can run:
+* [1. Prefácio](#1-prefácio)
+* [2. Aprendizagem](#2-aprendizagem)
+* [3. Tecnologias utilizadas](#3-tecnologias-utilizadas)
+* [4. Autora](#4-autora)
 
-### `npm start`
+## 1. Prefácio
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A lista das tarefas, ou todo list como nós costumamos dizer, é a mais simples e eficaz ferramenta de produtividade pessoal. Todos nós já tivemos a necessidade de fazer uma lista escrevendo o que precisamos fazer.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Uma tarefa pode possuir uma descrição, um status (finalizada ou não) uma data de duração e outras informações.
 
-### `npm test`
+Uma lista de tarefas pode adicionar uma tarefa, pode remover uma ou todas as tarefas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Sempre que uma tarefa for acrescentada na lista de tarefas ou possuir seu status alterado, essas informações devem ser refletida na tela.
 
-### `npm run build`
+## 2. Aprendizagem
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Uso de callbacks e Promises - JS
+* Manipulação de Estados através do uso de React.JS
+* Consumo de APIs
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 3. Tecnologias utilizadas
+* HTML
+* CSS
+* React.JS
+* Node.js
+* Figma
+* Trello
+* Github
+* Visual Studio Code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 4. Autora
 
-### `npm run eject`
+<table>
+<td>
+    <div align= "center">
+        <img alt="Raele" height="160" src="https://avatars.githubusercontent.com/u/95094504?v=4">
+    </div>
+    <h3 align="center"><a href="https://github.com/raelepereira">Raele Pereira</a></h3>
+    <h4 align="center">Projeto Lista de Tarefas</h4>
+    <div align="center">
+      <a href = "mailto:raelepereira.nutri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/raelepereira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </div>
+  </td>
+</table>
+  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
