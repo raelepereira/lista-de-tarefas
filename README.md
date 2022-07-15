@@ -1,5 +1,4 @@
 <h1 align="center">Lista de Tarefas</h1>
-
 <div align="center" valign="top"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,12 +16,11 @@
 ## 1. Prefácio
 
 A lista das tarefas, ou todo list como nós costumamos dizer, é a mais simples e eficaz ferramenta de produtividade pessoal. Todos nós já tivemos a necessidade de fazer uma lista escrevendo o que precisamos fazer.
-
 Uma tarefa pode possuir uma descrição, um status (finalizada ou não) uma data de duração e outras informações.
-
 Uma lista de tarefas pode adicionar uma tarefa, pode remover uma ou todas as tarefas.
-
 Sempre que uma tarefa for acrescentada na lista de tarefas ou possuir seu status alterado, essas informações devem ser refletida na tela.
+
+Para acessar o app, clique [Aqui](https://lista-de-tarefas-vercel.vercel.app/)
 
 ## 2. Aprendizagem
 
