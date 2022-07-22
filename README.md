@@ -20,8 +20,6 @@ Uma tarefa pode possuir uma descrição, um status (finalizada ou não) uma data
 Uma lista de tarefas pode adicionar uma tarefa, pode remover uma ou todas as tarefas.
 Sempre que uma tarefa for acrescentada na lista de tarefas ou possuir seu status alterado, essas informações devem ser refletida na tela.
 
-Para acessar o app, clique [Aqui](https://lista-de-tarefas-vercel.vercel.app/)
-
 ## 2. Aprendizagem
 
 * Uso de callbacks e Promises - JS
