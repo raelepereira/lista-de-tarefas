@@ -18,7 +18,7 @@
 A lista das tarefas, ou todo list como nós costumamos dizer, é a mais simples e eficaz ferramenta de produtividade pessoal. Todos nós já tivemos a necessidade de fazer uma lista escrevendo o que precisamos fazer.
 Uma tarefa pode possuir uma descrição, um status (finalizada ou não) uma data de duração e outras informações.
 Uma lista de tarefas pode adicionar uma tarefa, pode remover uma ou todas as tarefas.
-Sempre que uma tarefa for acrescentada na lista de tarefas ou possuir seu status alterado, essas informações devem ser refletida na tela.
+Sempre que uma tarefa for acrescentada na lista ou tiver seu status alterado, essas informações devem ser refletidas na tela.
 
 ## 2. Aprendizagem
 
